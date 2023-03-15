@@ -1,0 +1,242 @@
+[
+  {
+    "id": 94,
+    "date": "2023-02-27T17:36:20",
+    "date_gmt": "2023-02-27T17:36:20",
+    "guid": {
+      "rendered": "http://localhost:8080/wordpress/?post_type=chats&#038;p=94"
+    },
+    "modified": "2023-02-27T17:36:20",
+    "modified_gmt": "2023-02-27T17:36:20",
+    "slug": "soliloquio",
+    "status": "publish",
+    "type": "chats",
+    "link": "http://localhost:8080/wordpress/chats/soliloquio/",
+    "title": { "rendered": "Soliloquio" },
+    "content": { "rendered": "", "protected": false },
+    "template": "",
+    "meta": [],
+    "acf": {
+      "uuid": "5",
+      "nombre": "Soliloquio",
+      "registro": "Hola que tal?",
+      "usuarios": [
+        {
+          "ID": 1,
+          "user_firstname": "",
+          "user_lastname": "",
+          "nickname": "admin",
+          "user_nicename": "admin",
+          "display_name": "admin",
+          "user_email": "mihaontech@gmail.com",
+          "user_url": "http://localhost:8080/wordpress",
+          "user_registered": "2023-02-25 23:07:22",
+          "user_description": "",
+          "user_avatar": "<img alt='' src='http://0.gravatar.com/avatar/ca1e785d5ed6cc48bf045d3940c7a1bc?s=96&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/ca1e785d5ed6cc48bf045d3940c7a1bc?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy' decoding='async'/>"
+        }
+      ],
+      "mensajes": [
+        {
+          "ID": 84,
+          "post_author": "1",
+          "post_date": "2023-02-26 06:57:59",
+          "post_date_gmt": "2023-02-26 06:57:59",
+          "post_content": "",
+          "post_title": "Borrador automático",
+          "post_excerpt": "",
+          "post_status": "publish",
+          "comment_status": "closed",
+          "ping_status": "closed",
+          "post_password": "",
+          "post_name": "borrador-automatico",
+          "to_ping": "",
+          "pinged": "",
+          "post_modified": "2023-02-26 06:57:59",
+          "post_modified_gmt": "2023-02-26 06:57:59",
+          "post_content_filtered": "",
+          "post_parent": 0,
+          "guid": "http://localhost:8080/wordpress/?post_type=mensajes&#038;p=84",
+          "menu_order": 0,
+          "post_type": "mensajes",
+          "post_mime_type": "",
+          "comment_count": "0",
+          "filter": "raw"
+        },
+        {
+          "ID": 85,
+          "post_author": "1",
+          "post_date": "2023-02-26 06:58:55",
+          "post_date_gmt": "2023-02-26 06:58:55",
+          "post_content": "",
+          "post_title": "Borrador automático",
+          "post_excerpt": "",
+          "post_status": "publish",
+          "comment_status": "closed",
+          "ping_status": "closed",
+          "post_password": "",
+          "post_name": "borrador-automatico-2",
+          "to_ping": "",
+          "pinged": "",
+          "post_modified": "2023-02-26 06:59:06",
+          "post_modified_gmt": "2023-02-26 06:59:06",
+          "post_content_filtered": "",
+          "post_parent": 0,
+          "guid": "http://localhost:8080/wordpress/?post_type=mensajes&#038;p=85",
+          "menu_order": 0,
+          "post_type": "mensajes",
+          "post_mime_type": "",
+          "comment_count": "0",
+          "filter": "raw"
+        }
+      ]
+    },
+    "_links": {
+      "self": [
+        { "href": "http://localhost:8080/wordpress/wp-json/wp/v2/chats/94" }
+      ],
+      "collection": [
+        { "href": "http://localhost:8080/wordpress/wp-json/wp/v2/chats" }
+      ],
+      "about": [
+        { "href": "http://localhost:8080/wordpress/wp-json/wp/v2/types/chats" }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://localhost:8080/wordpress/wp-json/wp/v2/media?parent=94"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "date": "2023-02-26T01:59:25",
+    "date_gmt": "2023-02-26T01:59:25",
+    "guid": {
+      "rendered": "http://localhost:8080/wordpress/?post_type=chats&#038;p=63"
+    },
+    "modified": "2023-02-26T01:59:25",
+    "modified_gmt": "2023-02-26T01:59:25",
+    "slug": "syntropik",
+    "status": "publish",
+    "type": "chats",
+    "link": "http://localhost:8080/wordpress/chats/syntropik/",
+    "title": { "rendered": "Syntropik" },
+    "content": { "rendered": "", "protected": false },
+    "template": "",
+    "meta": [],
+    "acf": {
+      "uuid": "000",
+      "nombre": "Syntropik",
+      "registro": "Maikimais — 24/02/2023 9:57<br />\r\nostras! pasame los programas cuando puedas! hahahaah se qe soy un pesau<br />\r\n<br />\r\nAitor — 24/02/2023 10:47<br />\r\nMike te acabo de hacer un wetransfer<br />\r\nahora se esta haciendo el otro<br />\r\nte llegara al mihaontech@gmail.com<br />\r\n<br />\r\nMaikimais — 24/02/2023 10:48<br />\r\nPerfect!!<br />\r\nHe puesto una tarea por cada módulo de la app<br />\r\nPara dividir, y le estoy dando vueltas al chat<br />\r\nComo verías que fuera tipo foro? Rollo reddit?<br />\r\nO crees que tiene que ser más chat puro como discord?<br />\r\n<br />\r\nAitor — 24/02/2023 10:50<br />\r\nyo creo que un char puro tipo discord es necesario<br />\r\nlo del foro lo veo más rollo para abordar proyectos que la gente pueda proponer<br />\r\npara la intercoperacion x ejemplo, así la gente solo sigue los temas que le interese<br />\r\npero para el dia a dia de las tribus creo que seria genial chat puro<br />\r\n<br />\r\nMaikimais — 24/02/2023 10:59<br />\r\nOki<br />\r\nSabes cuánto pesan los programas? Que no lo veo<br />\r\n<br />\r\nAitor — 24/02/2023 11:02<br />\r\n1GB i algo<br />\r\nmenos de 2 seguro<br />\r\nque es el max de wetransfer<br />\r\n<br />\r\nMaikimais — 24/02/2023 11:02<br />\r\nPerfect<br />\r\n<br />\r\nAitor — 24/02/2023 11:31<br />\r\nuff mike acabo de descubrir una cosa que me esta flipando<br />\r\nhttps://www.buddyboss.com/?utm_source=google&utm_medium=cpc&gclid=Cj0KCQiA3eGfBhCeARIsACpJNU_69PZDnCyzXSBNKa1-85FQmjwRU0Hlnyxd30k5vizNcfrrT3qNUzIaApfhEALw_wcB<br />\r\nBuddyBoss<br />\r\nChintesh Prajapati<br />\r\nThe #1 course & community platform for WordPress. | BuddyBoss<br />\r\nCreate an online school with everything you need to provide a powerful learning experience for your students.<br />\r\nImagen<br />\r\nhttps://www.buddyboss.com/website-platform/ entra en la demo<br />\r\nBuddyBoss<br />\r\nChintesh Prajapati<br />\r\nUnlock social networking features for your online course. | BuddyBoss<br />\r\nBuddyBoss Web is a WordPress theme that enables an elegant design with powerful features for your course and community website.<br />\r\nImagen<br />\r\n<br />\r\nAitor — 24/02/2023 11:47<br />\r\nes para crear como una especie de \"red social\" pero tiene cosas muy interesantes:<br />\r\n- El tener un feed rollo red social puede potenciar la intercooperacion<br />\r\n- Tienes el xat integrado que puedes hablan con quien quieras<br />\r\n- Cada tribu puede tener su grupo privado donde:<br />\r\n--Tienen un feed privado<br />\r\n--Pueden crear \"discussions\" (como subforo para temas concretos)<br />\r\n--Pueden crear grupos de chat<br />\r\n<br />\r\n-Se puede unir personas ajenas a las tribus (gente del pueblo, de otros proyectos), pueden hablar i cooperar con otras personas<br />\r\n-Tiene inegración con WP Job Manager, un pluguin para crear bolsas y anuncios de trabajo (ya tienes todo hecho el listado, los formularios para crear un nuevo anuncio, etc)<br />\r\n-Tenemos que integrar el VotBot y seria la hostia<br />\r\n<br />\r\nAitor — 24/02/2023 12:14<br />\r\ntener un UX similar a las redes sociales que se mueve la gente tambien es un plus a la hora de aprender a usarla<br />\r\n<br />\r\nMaikimais — 24/02/2023 18:51<br />\r\nEsta wapo la verdad<br />\r\nPero lo dices del plan hacer algo así o pagarlo?<br />\r\nEsta muy wapo lo de los grupos si<br />\r\nQue puedas crear \"espacios\", osea el user<br />\r\nEl plugin job manager es gratis?<br />\r\nHe estado mirando y hay bastantes gratis y bien exow<br />\r\nAitor — ayer a las 11:56<br />\r\nBueno no se si este es el camino eh<br />\r\nSi lo fuera sin duda lo pillaria<br />\r\nProgramar eso es una locura haha<br />\r\nAdemas tiene integracion directa con gravity forms, por lo que creo que seria muy facil integrar un formulario con votbot<br />\r\n<br />\r\nMaikimais — ayer a las 11:57<br />\r\nSi, lo del votbot será fácil meterlo everywhete<br />\r\n<br />\r\nMaikimais — ayer a las 14:08<br />\r\nCreo qe ya se cómo resolver lo del chat<br />\r\nViy a hacer pruebas"
+    },
+    "_links": {
+      "self": [
+        { "href": "http://localhost:8080/wordpress/wp-json/wp/v2/chats/63" }
+      ],
+      "collection": [
+        { "href": "http://localhost:8080/wordpress/wp-json/wp/v2/chats" }
+      ],
+      "about": [
+        { "href": "http://localhost:8080/wordpress/wp-json/wp/v2/types/chats" }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://localhost:8080/wordpress/wp-json/wp/v2/media?parent=63"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "date": "2023-02-25T23:43:53",
+    "date_gmt": "2023-02-25T23:43:53",
+    "guid": {
+      "rendered": "http://localhost:8080/wordpress/?post_type=chats&#038;p=25"
+    },
+    "modified": "2023-02-26T05:40:55",
+    "modified_gmt": "2023-02-26T05:40:55",
+    "slug": "tribu_test",
+    "status": "publish",
+    "type": "chats",
+    "link": "http://localhost:8080/wordpress/chats/tribu_test/",
+    "title": { "rendered": "Tribu_Test" },
+    "content": { "rendered": "", "protected": false },
+    "template": "",
+    "meta": [],
+    "acf": {
+      "uuid": "002",
+      "nombre": "Tribu_Test",
+      "registro": "Maikimais <br />\r\nLorem ipsumn Lorem ipsumn Lorem ipsumnLorem ipsumn Lorem ipsumn Lorem ipsumn"
+    },
+    "_links": {
+      "self": [
+        { "href": "http://localhost:8080/wordpress/wp-json/wp/v2/chats/25" }
+      ],
+      "collection": [
+        { "href": "http://localhost:8080/wordpress/wp-json/wp/v2/chats" }
+      ],
+      "about": [
+        { "href": "http://localhost:8080/wordpress/wp-json/wp/v2/types/chats" }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://localhost:8080/wordpress/wp-json/wp/v2/media?parent=25"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "date": "2023-02-25T23:26:22",
+    "date_gmt": "2023-02-25T23:26:22",
+    "guid": {
+      "rendered": "http://localhost:8080/wordpress/?post_type=chats&#038;p=8"
+    },
+    "modified": "2023-02-26T07:18:49",
+    "modified_gmt": "2023-02-26T07:18:49",
+    "slug": "chat",
+    "status": "publish",
+    "type": "chats",
+    "link": "http://localhost:8080/wordpress/chats/chat/",
+    "title": { "rendered": "Repoblem" },
+    "content": {
+      "rendered": "\n<div class=\"is-layout-flex wp-container-3 wp-block-columns\">\n<div class=\"is-layout-flow wp-block-column\" style=\"flex-basis:33.33%\">\n<p>CHATS:<br>Syntropik<br>Repoblem<br>Tribu_Test</p>\n</div>\n\n\n\n<div class=\"is-layout-flow wp-block-column\" style=\"flex-basis:66.66%\">\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"1113\" height=\"915\" src=\"http://localhost:8080/wordpress/wp-content/uploads/2023/02/imagen_chat.png\" alt=\"\" class=\"wp-image-87\"/></figure>\n</div>\n</div>\n",
+      "protected": false
+    },
+    "template": "",
+    "meta": [],
+    "acf": {
+      "uuid": "001",
+      "registro": "Aitor — 24/02/2023 12:14<br />\r\ntener un UX similar a las redes sociales que se mueve la gente tambien es un plus a la hora de aprender a usarla<br />\r\n<br />\r\nMaikimais — 24/02/2023 18:51<br />\r\nEsta wapo la verdad<br />\r\nPero lo dices del plan hacer algo así o pagarlo?<br />\r\nEsta muy wapo lo de los grupos si<br />\r\nQue puedas crear \"espacios\", osea el user<br />\r\nEl plugin job manager es gratis?<br />\r\nHe estado mirando y hay bastantes gratis y bien exow<br />\r\n<br />\r\nAitor — ayer a las 11:56<br />\r\nBueno no se si este es el camino eh<br />\r\nSi lo fuera sin duda lo pillaria<br />\r\nProgramar eso es una locura haha<br />\r\nAdemas tiene integracion directa con gravity forms, por lo que creo que seria muy facil integrar un formulario con votbot<br />\r\n<br />\r\nMaikimais — ayer a las 11:57<br />\r\nSi, lo del votbot será fácil meterlo everywhete<br />\r\n<br />\r\nMaikimais — ayer a las 14:08<br />\r\nCreo qe ya se cómo resolver lo del chat<br />\r\nViy a hacer pruebas",
+      "nombre": "Repoblem"
+    },
+    "_links": {
+      "self": [
+        { "href": "http://localhost:8080/wordpress/wp-json/wp/v2/chats/8" }
+      ],
+      "collection": [
+        { "href": "http://localhost:8080/wordpress/wp-json/wp/v2/chats" }
+      ],
+      "about": [
+        { "href": "http://localhost:8080/wordpress/wp-json/wp/v2/types/chats" }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://localhost:8080/wordpress/wp-json/wp/v2/media?parent=8"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  }
+]
